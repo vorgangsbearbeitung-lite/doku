@@ -5,4 +5,8 @@ Für diese Zwecke ist klassische Individualsoftware unwirtschaftlich, da die obe
 Aus diesem Grund haben die *Landeshauptstadt München* gemeinsam mit der Fa. *msg systems ag* eine Studie mit dem Ziel durchgeführt, passend scheinende Standardlösungen auf ihre Tauglichkeit hin zu untersuchen.
 
 ## Dokumente
+  * [Ergebnisdokument (PDF)](https://github.com/vorgangsbearbeitung-lite/doku/raw/master/Vorgangsbearbeitung-Lite.pdf)
+  * [Ergebnisdokument (Open Office)](https://github.com/vorgangsbearbeitung-lite/doku/raw/master/Vorgangsbearbeitung-Lite.odt)
+  * [Kriterienkatalog (PDF)](https://github.com/vorgangsbearbeitung-lite/doku/raw/master/Vorgangsbearbeitung-Lite-Kriterienkatalog.pdf)
+  * [Kriterienkatalog (Open Office)](https://github.com/vorgangsbearbeitung-lite/doku/raw/master/Vorgangsbearbeitung-Lite-Kriterienkatalog.pdf)
   * [Alle Dokumente (ZIP)](https://github.com/vorgangsbearbeitung-lite/doku/archive/master.zip)
